@@ -20,6 +20,7 @@ Melodic.ai uses AI tools to more accurately assess pitch and offer supportive, c
 
 ---
 
+
 ## 🛠 Core Technology
 
 | Component             | Tool / Library |
